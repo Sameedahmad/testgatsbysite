@@ -54,7 +54,7 @@ function PlasmicTopSection__RenderFunc(props) {
                 sty.box__bkWnA
               )}
             >
-              {"Make your website"}
+              {"Make your awesome"}
             </div>
 
             <div
